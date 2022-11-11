@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = '';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/patiemacks_Dallas/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
